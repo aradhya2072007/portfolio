@@ -9,7 +9,7 @@ const projects = [
     description: 'A dynamic and interactive web application built with modern frontend technologies. Features responsive design, smooth animations, and intuitive user interactions.',
     tech: ['React', 'JavaScript', 'HTML5', 'CSS3'],
     features: ['Responsive design', 'Smooth animations', 'Interactive UI'],
-    github: 'https://github.com/aradhya2072007/scarlett-force',
+    github: 'https://github.com/aradhya2072007/Scarlett_Force',
     color: 'cyan' as const,
   },
   {
